@@ -18,6 +18,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
            <h1> LEARN TO PUSH TO GITHUB</h1>
+           <h2>HEADER </h2>
           </a>
         </header>
       </div>
