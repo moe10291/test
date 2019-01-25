@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+           <h1> LEARN TO PUSH TO GITHUB</h1>
           </a>
         </header>
       </div>
